@@ -1,5 +1,32 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>The prime numbers from 1 to 100 are : </h2>
+  <p>
+    2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97 
+ </p>
 </body>
 </html>
